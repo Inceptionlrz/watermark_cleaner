@@ -1,0 +1,9 @@
+numpy>=1.24.0
+Pillow>=10.0.0
+# 可选依赖 - 完整扩散模型支持
+# torch>=2.1.0
+# diffusers>=0.25.0
+# transformers>=4.36.0
+# 可选依赖 - 视频处理
+# opencv-python>=4.8.0
+# ffmpeg-python>=0.2.0

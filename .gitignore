@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 测试输出
+test_output/
+
+# 临时文件
+temp_error.txt
+*.log
+
+# 备份
+.backups/
+
+# 模型文件（太大，需单独下载）
+*.safetensors
+*.ckpt
+*.pt
+models/
