@@ -7,6 +7,7 @@ from typing import Optional
 @dataclass
 class DetectorConfig:
     synthid_enabled: bool = True
+
     synthid_confidence_threshold: float = 0.35
     c2pa_enabled: bool = True
     stablesig_enabled: bool = False
